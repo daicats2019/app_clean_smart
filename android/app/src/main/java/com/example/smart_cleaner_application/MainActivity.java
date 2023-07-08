@@ -1,4 +1,4 @@
-package com.example.smart_cleaner_application;
+package com.qksoft.sharefilemess;
 
 import io.flutter.embedding.android.FlutterActivity;
 
